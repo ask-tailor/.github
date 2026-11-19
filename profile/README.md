@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://asktailor.app">🌐 asktailor.app</a> ·
+  <a href="https://talktotailor.ai">🌐 talktotailor.ai</a> ·
   <a href="https://www.linkedin.com/company/tailor-asistentepersonal">💼 LinkedIn</a>
 </p>
 
